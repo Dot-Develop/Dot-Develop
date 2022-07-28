@@ -26,5 +26,7 @@ I enjoy and Interested in traveling around, sightseeing tours, swimming, walking
 [My Portfolio Website](https://dot-develop.com/)
 ----------------------------
 [My LinkedIn Profile](https://www.linkedin.com/in/mohammedyousifali/)
+|
 [My Facebook Profile](https://www.facebook.com/Mohammed.Yousif1998/)
+|
 [My Instagram Profile](Instagram.com/mohammed.yousif.ali/)
