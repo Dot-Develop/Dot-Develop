@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **Dot-Develop/Dot-Develop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+A Software Engineer, Graphic Designer and Mobile App Developer with 3+ years of experience.
+Software project management, Coding, Product design, and Agile methodologies (Scrum) is my passion.
+
+From the past, I designed, implemented, developed and maintained some Mobile Apps and 2D Games.
+
+I enjoy and Interested in traveling around, sightseeing tours, swimming, walking, driving, and sports Ping Pong.
+
+[My Portfolio Website](https://dot-develop.com/)
