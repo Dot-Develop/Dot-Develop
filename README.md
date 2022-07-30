@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### About Me
 A Software Engineer, Graphic Designer and Mobile App Developer with 3+ years of experience.
-Software project management, Coding, Product design, and Agile methodologies (Scrum) is my passion.
+Software project management, Coding, Product design, and Agile methodologies (Scrum, Kanban) is my passion.
 
 From the past, I designed, implemented, developed and maintained some Mobile Apps and 2D Games.
 
