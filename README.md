@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-A Software Engineer, Graphic Designer and Mobile App Developer with 3+ years of experience.
+A Software Engineer, Mobile App Developer and Coach with 4+ years of experience.
 Software project management, Coding, Product design, and Agile methodologies (Scrum, Kanban) is my passion.
 
-From the past, I designed, implemented, developed and maintained some Mobile Apps and 2D Games.
+In the past, I designed, implemented, developed and maintained some Mobile Apps and 2D Games.
 
 I enjoy and Interested in traveling around, sightseeing tours, swimming, walking, driving, and sports Ping Pong.
 
